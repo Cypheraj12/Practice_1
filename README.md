@@ -1,2 +1,2 @@
 # Practice_1
-practice stuff just a notebook that builds a machine learning model to classify sonar signals as either rocks or mines. It typically includes data preprocessing, training a classifier, and evaluating prediction accuracy.
+practice stuff just a notebook that builds a simple machine learning model to classify sonar signals as rocks or mines using a very small dataset of around 300 samples. It focuses on basic preprocessing, training, and evaluating model performance on limited data.
